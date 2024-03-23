@@ -6,13 +6,13 @@ Python常用工具库站点
 
 ```bash
 # install dependencies
-$ yarn install
+$ npm install
 
 # start dev server
-$ yarn start
+$ npm start
 
 # build docs
-$ yarn run build
+$ npm run build
 ```
 
 ## LICENSE
