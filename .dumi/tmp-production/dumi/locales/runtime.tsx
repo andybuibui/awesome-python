@@ -11,7 +11,7 @@ const cache = createIntlCache();
 
 const LocalesContainer: FC<{ children: ReactNode }> = (props) => {
   const getIntl = useCallback(() => {
-    const base = ""
+    const base = "/awesome-python"
     const matched = locales.slice().reverse().find((locale) => (
       'suffix' in locale
         // suffix mode

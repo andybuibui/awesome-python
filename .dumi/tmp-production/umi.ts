@@ -13,7 +13,7 @@ import Loading from '@@/dumi/theme/loading';
 import { ApplyPluginsType } from 'umi';
 
 
-const publicPath = "/";
+const publicPath = "/awesome-python/";
 const runtimePublicPath = false;
 
 async function render() {
@@ -36,7 +36,7 @@ async function render() {
     initialValue: {},
   });
 
-  const basename = contextOpts.basename || '/';
+  const basename = contextOpts.basename || '/awesome-python/';
   const historyType = contextOpts.historyType || 'browser';
 
   const history = createHistory({
