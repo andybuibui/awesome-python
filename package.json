@@ -11,6 +11,7 @@
   },
   "authors": [],
   "license": "MIT",
+  "homepage": "https://andybuibui.github.io/awesome-python",
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"

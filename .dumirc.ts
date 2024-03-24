@@ -9,7 +9,7 @@ export default defineConfig({
     },
     nav: [],
     footer: `Awesome Python | Copyright © 2024-present`,
-    logo: '/awesome-python/favicon.png',
+    logo: '/awesome-python/logo.png',
   },
   locales: [
     { id: 'zh-CN', name: '中文' },

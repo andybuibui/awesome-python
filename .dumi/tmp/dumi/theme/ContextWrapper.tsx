@@ -39,7 +39,7 @@ export default function DumiContextWrapper() {
       loading,
       setLoading,
       hostname: undefined,
-      themeConfig: {"footer":"Awesome Python | Copyright © 2024-present","prefersColor":{"default":"light","switch":true},"nprogress":true,"lastUpdated":true,"name":"Awesome Python","rtl":true,"socialLinks":{"github":"https://github.com/andybuibui/awesome-python"},"nav":[],"logo":"/favicon.png"},
+      themeConfig: {"footer":"Awesome Python | Copyright © 2024-present","prefersColor":{"default":"light","switch":true},"nprogress":true,"lastUpdated":true,"name":"Awesome Python","rtl":true,"socialLinks":{"github":"https://github.com/andybuibui/awesome-python"},"nav":[],"logo":"/awesome-python/logo.png"},
       _2_level_nav_available: true,
     }}>
       {outlet}
