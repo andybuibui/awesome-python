@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesome_python_doc=self.webpackChunkawesome_python_doc||[]).push([[9],{65149:function(v,n,e){e.r(n),e.d(n,{default:function(){return m}});var o=e(83026),t=e(62435),d=function(){var r=(0,o.UO)(),s=r.id,u=(0,o.WF)(),c=u.demos,f=c[s]||{},a=f.component;return a&&(0,t.createElement)(a)},m=d}}]);
