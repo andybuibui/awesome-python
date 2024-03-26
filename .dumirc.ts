@@ -17,4 +17,7 @@ export default defineConfig({
   ],
   base: `/awesome-python/`,
   publicPath: `/awesome-python/`,
+  analytics: {
+    baidu: 'd383856a4174d931ddbd35288e8535a1'
+  }
 });
