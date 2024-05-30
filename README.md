@@ -20,4 +20,4 @@ $ npm run build
 MIT
 
 ## HomePage
--[homepage](https://andybuibui.github.io/awesome-python/)
+- [homepage](https://andybuibui.github.io/awesome-python/)
